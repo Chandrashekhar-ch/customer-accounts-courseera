@@ -5,13 +5,13 @@ Upload questions require the named JPEG files. Text blocks below contain capture
 ## Question 1 (URL)
 
 ```text
-https://github.com/PruthviChaudharii/customer-accounts/blob/main/README.md
+https://github.com/Chandrashekhar-ch/customer-accounts-courseera/blob/main/README.md
 ```
 
 ## Question 2 (URL)
 
 ```text
-https://github.com/PruthviChaudharii/customer-accounts/blob/main/user-story.md
+https://github.com/Chandrashekhar-ch/customer-accounts-courseera/blob/main/user-story.md
 ```
 
 ## Question 3 (UPLOAD)
@@ -33,7 +33,7 @@ Upload planning-kanban-done.jpeg
 ## Question 7 (URL)
 
 ```text
-https://github.com/PruthviChaudharii/customer-accounts/blob/main/setup.cfg
+https://github.com/Chandrashekhar-ch/customer-accounts-courseera/blob/main/setup.cfg
 ```
 
 ## Question 8 (UPLOAD)
@@ -805,13 +805,13 @@ Upload ci-kanban-done.jpeg
 ## Question 21 (URL)
 
 ```text
-https://github.com/PruthviChaudharii/customer-accounts/blob/main/.github/workflows/ci-build.yaml
+https://github.com/Chandrashekhar-ch/customer-accounts-courseera/blob/main/.github/workflows/ci-build.yaml
 ```
 
 ## Question 22 (URL)
 
 ```text
-https://github.com/PruthviChaudharii/customer-accounts/blob/main/service/__init__.py
+https://github.com/Chandrashekhar-ch/customer-accounts-courseera/blob/main/service/__init__.py
 ```
 
 ## Question 23 (TEXT)
@@ -894,7 +894,7 @@ Upload kube-kubernetes-done.jpeg
 ## Question 29 (URL)
 
 ```text
-https://github.com/PruthviChaudharii/customer-accounts/blob/main/Dockerfile
+https://github.com/Chandrashekhar-ch/customer-accounts-courseera/blob/main/Dockerfile
 ```
 
 ## Question 30 (TEXT)

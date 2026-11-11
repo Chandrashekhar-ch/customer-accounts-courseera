@@ -1,6 +1,6 @@
 # Complete submission guide
 
-[Public Kanban board](https://github.com/users/PruthviChaudharii/projects/1)
+[Public Kanban board](https://github.com/users/Chandrashekhar-ch/projects/1/views/1)
 
 All evidence comes from actual GitHub, Docker, Kubernetes, or Tekton state.
 Planning views were captured during board setup; Done views show implemented and verified stories.
