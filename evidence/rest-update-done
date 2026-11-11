@@ -1,8 +1,8 @@
-curl.exe --silent --show-error --include -X PUT http://localhost:8080/accounts/1 -H "Content-Type: application/json" --data-binary @evidence/update-account.json
+curl.exe --silent --show-error --include -X PUT http://localhost:8080/accounts/1 -H 'Content-Type: application/json' --data-binary @evidence/update-account.json
 
 HTTP/1.1 200 OK
 Server: gunicorn
-Date: Sat, 24 Oct 2026 06:16:11 GMT
+Date: Wed, 11 Nov 2026 15:55:35 GMT
 Connection: close
 Content-Type: application/json
 Content-Length: 159
@@ -14,3 +14,4 @@ Content-Security-Policy: default-src 'self'; object-src 'none'
 Referrer-Policy: strict-origin-when-cross-origin
 
 {"address":"123 Example Street","date_joined":"2026-10-24","email":"pruthvi.demo@example.com","id":1,"name":"Pruthvi Updated","phone_number":"+91-9000000000"}
+

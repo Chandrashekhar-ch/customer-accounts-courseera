@@ -1,12 +1,12 @@
-curl.exe --silent --show-error --include -X POST http://localhost:8080/accounts -H "Content-Type: application/json" --data-binary @evidence/create-account.json
+curl.exe --silent --show-error --include -X POST http://localhost:8080/accounts -H 'Content-Type: application/json' --data-binary @evidence/create-account.json
 
 HTTP/1.1 201 CREATED
 Server: gunicorn
-Date: Sat, 24 Oct 2026 06:16:11 GMT
+Date: Wed, 11 Nov 2026 15:55:35 GMT
 Connection: close
 Content-Type: application/json
 Content-Length: 156
-Location: http://localhost:8080/accounts/1
+Location: http://localhost:8080/accounts/2
 Access-Control-Allow-Origin: http://localhost:8080
 Permissions-Policy: browsing-topics=()
 X-Frame-Options: SAMEORIGIN
@@ -14,4 +14,5 @@ X-Content-Type-Options: nosniff
 Content-Security-Policy: default-src 'self'; object-src 'none'
 Referrer-Policy: strict-origin-when-cross-origin
 
-{"address":"123 Example Street","date_joined":"2026-10-24","email":"pruthvi.demo@example.com","id":1,"name":"Pruthvi Demo","phone_number":"+91-9000000000"}
+{"address":"123 Example Street","date_joined":"2026-10-24","email":"pruthvi.demo@example.com","id":2,"name":"Pruthvi Demo","phone_number":"+91-9000000000"}
+

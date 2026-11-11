@@ -8,7 +8,7 @@ spec:
     serviceAccountName: accounts-pipeline
   params:
     - name: repo-url
-      value: https://github.com/PruthviChaudharii/customer-accounts.git
+      value: https://github.com/Chandrashekhar-ch/customer-accounts-courseera.git
     - name: branch
       value: main
     - name: image

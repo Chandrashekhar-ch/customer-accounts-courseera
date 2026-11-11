@@ -1,1 +1,1 @@
-https://github.com/PruthviChaudharii/customer-accounts/blob/main/setup.cfg
+https://github.com/Chandrashekhar-ch/customer-accounts-courseera/blob/main/setup.cfg

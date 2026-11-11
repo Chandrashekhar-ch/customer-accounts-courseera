@@ -1,1 +1,1 @@
-https://github.com/PruthviChaudharii/customer-accounts/blob/main/.github/workflows/ci-build.yaml
+https://github.com/Chandrashekhar-ch/customer-accounts-courseera/blob/main/.github/workflows/ci-build.yaml

@@ -1,9 +1,9 @@
 # Customer Accounts Microservice
 
-[![CI Build](https://github.com/PruthviChaudharii/customer-accounts/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/PruthviChaudharii/customer-accounts/actions/workflows/ci-build.yaml)
+[![CI Build](https://github.com/Chandrashekhar-ch/customer-accounts-courseera/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/Chandrashekhar-ch/customer-accounts-courseera/actions/workflows/ci-build.yaml)
 
 Customer Accounts capstone for the IBM DevOps and Software Engineering course.
-Maintainer: PruthviChaudharii.
+Maintainer: Chandrashekhar-ch.
 
 Based on the [official IBM starter template](https://github.com/ibm-developer-skills-network/aolwx-devops-capstone-template),
 with the original Apache 2.0 license and attribution preserved.
